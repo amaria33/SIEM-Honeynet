@@ -42,7 +42,8 @@ For the "AFTER" metrics, Network Security Groups were hardened by blocking ALL t
     <img src="https://drive.google.com/uc?export=view&id=1scvdocKUarTdomk4gmj8AGMRBhjArK4y"
     style="width: 900px; max-width: 100%; height: auto"
     title="Click for the larger version."/></a><br>
-![Windows RDP/SMB Auth Failures]<a href="https://drive.google.com/uc?export=view&id=1ZTfYJZUUZiTtdV53c0G2miyMcw3Sw-45>
+![Windows RDP/SMB Auth Failures]
+<a href="https://drive.google.com/uc?export=view&id=1ZTfYJZUUZiTtdV53c0G2miyMcw3Sw-45>
     <img src="https://drive.google.com/uc?export=view&id=1ZTfYJZUUZiTtdV53c0G2miyMcw3Sw-45"
     style="width: 900px; max-width: 100%; height: auto"
     title="Click for the larger version."/></a><br>
