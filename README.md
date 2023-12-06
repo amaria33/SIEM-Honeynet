@@ -36,7 +36,7 @@ For the "AFTER" metrics, Network Security Groups were hardened by blocking ALL t
 ("<a href="https://drive.google.com/uc?export=view&id=1qQcg_vHGk_2zwXXE_8W1k2sv0cSvHCFS">
     <img src="https://drive.google.com/uc?export=view&id=1qQcg_vHGk_2zwXXE_8W1k2sv0cSvHCFS"
     style="width: 900px; max-width: 100%; height: auto"
-    title="Click for the larger version.") /></a><br>
+    title="Click for the larger version." />)a><br>
 ![Linux Syslog Auth Failures]("<a href="https://drive.google.com/uc?export=view&id=1wX2WC7SaO-XJqjq4m5zA6vC24u8ZmbGO">
     <img src="https://drive.google.com/uc?export=view&id=1wX2WC7SaO-XJqjq4m5zA6vC24u8ZmbGO"
     style="width: 900px; max-width: 100%; height: auto"
