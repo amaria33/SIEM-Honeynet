@@ -33,16 +33,16 @@ For the "AFTER" metrics, Network Security Groups were hardened by blocking ALL t
 
 ## Attack Maps Before Hardening / Security Controls
 ![NSG Allowed Inbound Malicious Flows]  
-  <a href="https://drive.google.com/uc?export=view&id=1qQcg_vHGk_2zwXXE_8W1k2sv0cSvHCFS">
-    <img src="https://drive.google.com/uc?export=view&id=1qQcg_vHGk_2zwXXE_8W1k2sv0cSvHCFS"
+  <a href="https://drive.google.com/uc?export=view&id=1riSbaccAtjWVMcCbM1al7M0agX1R9LcL">
+    <img src="https://drive.google.com/uc?export=view&id=1riSbaccAtjWVMcCbM1al7M0agX1R9LcL"
     style="width: 900px; max-width: 100%; height: auto"
     title="Click for the larger version." /></a><br>
-![Linux Syslog Auth Failures]<a href="https://drive.google.com/uc?export=view&id=1wX2WC7SaO-XJqjq4m5zA6vC24u8ZmbGO">
-    <img src="https://drive.google.com/uc?export=view&id=1wX2WC7SaO-XJqjq4m5zA6vC24u8ZmbGO"
+![Linux Syslog Auth Failures]<a href="https://drive.google.com/uc?export=view&id=1scvdocKUarTdomk4gmj8AGMRBhjArK4y">
+    <img src="https://drive.google.com/uc?export=view&id=1scvdocKUarTdomk4gmj8AGMRBhjArK4y"
     style="width: 900px; max-width: 100%; height: auto"
     title="Click for the larger version."/></a><br>
-![Windows RDP/SMB Auth Failures]<a href="https://drive.google.com/uc?export=view&id=1CXy3dGAxuBIZX50QccLy__nAiNTj8ITw">
-    <img src="https://drive.google.com/uc?export=view&id=1CXy3dGAxuBIZX50QccLy__nAiNTj8ITw"
+![Windows RDP/SMB Auth Failures]<a href="https://drive.google.com/uc?export=view&id=1ZTfYJZUUZiTtdV53c0G2miyMcw3Sw-45>
+    <img src="https://drive.google.com/uc?export=view&id=1ZTfYJZUUZiTtdV53c0G2miyMcw3Sw-45"
     style="width: 900px; max-width: 100%; height: auto"
     title="Click for the larger version."/></a><br>
 
